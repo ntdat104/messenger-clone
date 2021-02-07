@@ -9,8 +9,8 @@
     background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
 
 	&__container {
-		width: 576px;
-		height: 400px;
+		width: 40rem;
+		height: 40rem;
 		padding: 0 2rem;
 		margin: 0 auto;
 
@@ -18,7 +18,7 @@
 		flex-direction: column;
         justify-content: center;
         
-        box-shadow: 0px 0px 10px 1px #888888;
+        box-shadow: 0px 0px 1rem 1px #888888;
         border-radius: 1rem;
 
         background-color: white;
