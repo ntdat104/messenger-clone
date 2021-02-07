@@ -39,6 +39,7 @@
         margin-bottom: 1rem;
         padding: 1rem;
         overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
     }
 
     &__user, &__friend {
